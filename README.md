@@ -1,3 +1,3 @@
 # git215_setup
-M1: Homework-krisbell
+## m1-homework-krisbell
 ## Author: Kris Bell
